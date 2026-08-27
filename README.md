@@ -81,7 +81,7 @@ A full Stack developer looking to get better day by day. Holds a degree in Softw
     title="Express"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original colored.svg" 
+    src="https://jsdelivr.net" alt="express logo" width="40" height="40"
 />
 
 
