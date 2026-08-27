@@ -4,7 +4,7 @@
 
 A full Stack developer looking to get better day by day, holds a degree in Software Engineering from Unicesumar.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2&section=header">
 
 ### 🧰 Languages and Tools
 
