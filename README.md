@@ -4,7 +4,7 @@
 
 A full Stack developer looking to get better day by day, holds a degree in Software Engineering from Unicesumar.
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Languages and Tools
 
 <img 
     align="left" 
@@ -66,8 +66,6 @@ A full Stack developer looking to get better day by day, holds a degree in Softw
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
 
 <p>
 <img 
