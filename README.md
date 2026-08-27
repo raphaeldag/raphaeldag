@@ -4,6 +4,8 @@
 
 A full Stack developer looking to get better day by day, holds a degree in Software Engineering from Unicesumar.
 
+<br>
+
 ### 🧰 Languages and Tools
 
 <img 
